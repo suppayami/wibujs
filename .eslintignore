@@ -1,0 +1,10 @@
+.vscode
+node_modules
+out
+scripts
+*.js
+src/*.d.ts
+src/.next
+src/*.js
+src/*.json
+src/test-utils.tsx
